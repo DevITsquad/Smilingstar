@@ -1,0 +1,71 @@
+
+.rc-radio input[type=radio]:before {
+    background-color: #1ee3cc !important;
+    width: 13px !important;
+    height: 13px !important;
+}
+
+.rc-radio .rc-radio__input {
+    height: 21px !important;
+    width: 21px !important;
+}
+.tablet-show{
+    display: none;
+}
+@media screen and (max-width: 950px) { 
+    .tablet-show{
+        display: block;
+    }
+    .tablet-hide{
+        display: none;
+    }
+    .countdown-timer__type.fs-accent {
+        display: none;
+    }
+    .countdown-timer__item:first-child {
+        display: none;
+    }
+    .countdown-timer__item:nth-child(2) .countdown-timmer__amount:before {
+        display: none;
+    }
+    .countdown-banner--bar .countdown-banner__content{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .countdown-timer--small.complete .countdown-timer__inner{
+        margin-bottom: 0;
+    }
+    .countdown-banner__bar-item.countdown-banner__bar-item--text{
+        padding: 0;
+    }
+    .countdown-banner__bar-item.countdown-banner__bar-item--timer {
+        padding-bottom: 0;
+    }
+    .countdown-timer--small .countdown-timmer__amount {
+        margin: 0;
+        font-size: 24px;
+        line-height: 1;
+    }
+    .countdown-banner__bar-item.countdown-banner__bar-item--heading.tablet-show {
+        margin-right: 10px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .countdown-banner__bar-item.countdown-banner__bar-item--heading .ff-heading,
+    .countdown-banner__bar-text.rte {
+        font-size: 14px;
+    }
+    /* .countdown-banner__bar-item.countdown-banner__bar-item--timer{
+        padding-top: 0;
+    } */
+    .countdown-timer.countdown-timer--small {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+}
+@media screen and (max-width: 420px) {
+    .countdown-banner__bar-item.countdown-banner__bar-item--heading .ff-heading,
+    .countdown-banner__bar-text.rte {
+        font-size: 12px;
+    }
+}

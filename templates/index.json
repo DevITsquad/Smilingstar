@@ -1,0 +1,1196 @@
+{
+  "sections": {
+    "1655855477ee9538e0": {
+      "type": "countdown-bar",
+      "settings": {
+        "min_height": 60,
+        "min_height_mobile": 60,
+        "year": 2023,
+        "month": "july",
+        "day": "1",
+        "hour": "0",
+        "minute": "0",
+        "time_zone_selection": "shop",
+        "hide_timer_on_complete": false,
+        "timer_complete_message": "",
+        "heading": "Black friday sale!",
+        "text": "<p>Smiling Star Whitening Gel 50% Off<\/p>",
+        "link": "shopify:\/\/products\/smiling-star-teeth-whitening-system",
+        "link_text": "",
+        "button_style": "btn--primary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "background_color": "#080808",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "full_width": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "16558445044f80743b": {
+      "type": "image-hero",
+      "blocks": {
+        "d0cd2366-7930-4809-80d7-2b38d2d4fb07": {
+          "type": "heading",
+          "settings": {
+            "title": "THE TEETH WHITENING KIT",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "8a49de45-4784-4f5d-adcf-b87e81e76548": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Created by Dentists to the Stars",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "d525a297-b0ac-4079-a90c-68d26f07aae7": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/smiling-star-teeth-whitening-system",
+            "link_text": "shop now",
+            "button_style": "btn--primary"
+          }
+        },
+        "15c58a65-cec7-4639-8936-8e3534462aff": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "link": "shopify:\/\/pages\/about-us",
+            "link_text": "Read about the dentists",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "d0cd2366-7930-4809-80d7-2b38d2d4fb07",
+        "8a49de45-4784-4f5d-adcf-b87e81e76548",
+        "d525a297-b0ac-4079-a90c-68d26f07aae7",
+        "15c58a65-cec7-4639-8936-8e3534462aff"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 70,
+        "mobile_height": 100,
+        "image": "shopify:\/\/shop_images\/Hero_Banner.jpg",
+        "image_mobile": "shopify:\/\/shop_images\/Hero_Banner_Mobile.jpg",
+        "focal_point": "left",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "shopify:\/\/products\/smiling-star-teeth-whitening-system",
+        "text_position": "flex-start_flex-start",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "4258a3cf-63f0-4252-a258-d088d4867ca8": {
+      "type": "quote",
+      "blocks": {
+        "template--19752580677952__4258a3cf-63f0-4252-a258-d088d4867ca8-1688397820ad544d9d-0": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>“Absolutely unparalleled products and service. I'm confident that this store will be the next big thing in its industry, and that its products will be timeless.”<\/p>",
+            "title": "Steve Jordans",
+            "font_size": "small"
+          }
+        },
+        "template--19752580677952__4258a3cf-63f0-4252-a258-d088d4867ca8-1688397820ad544d9d-1": {
+          "type": "quote",
+          "settings": {
+            "quote": "<p>“Love this product”<\/p>",
+            "title": "Ruby Jaramillo",
+            "font_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "template--19752580677952__4258a3cf-63f0-4252-a258-d088d4867ca8-1688397820ad544d9d-0",
+        "template--19752580677952__4258a3cf-63f0-4252-a258-d088d4867ca8-1688397820ad544d9d-1"
+      ],
+      "settings": {
+        "autoplay_enabled": true,
+        "autoplay_delay": 7,
+        "pagination_style": "dots",
+        "font_choice": "body",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-bottom-only"
+      }
+    },
+    "16549177944ec2347e": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1654917794cdc0bc3c-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text",
+            "heading_font_class": "fs-heading-3-base"
+          }
+        },
+        "1654917794cdc0bc3c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text area to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "1654917794cdc0bc3c-0",
+        "1654917794cdc0bc3c-1"
+      ],
+      "settings": {
+        "alignment": "center_center",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_width": "custom",
+        "custom_content_width": 650
+      }
+    },
+    "12afe198-e642-41a9-8b88-3aa9e0e80080": {
+      "type": "featured-product",
+      "blocks": {
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-0": {
+          "type": "product_header",
+          "settings": {
+            "show_divider": false,
+            "show_vendor": false,
+            "show_sku": false,
+            "show_discount": false,
+            "discount_format": "percent_off",
+            "show_product_rating": false,
+            "show_sale_badge": false,
+            "show_custom_badges": false
+          }
+        },
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-1": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "variant_popup_option": "Size",
+            "variant_popup_icon": "none",
+            "variant_popup_text": "Size guide",
+            "variant_popup_page": "",
+            "swatch_size": "medium",
+            "chip_layout": "3col"
+          }
+        },
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-2": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+            "show_labels": true
+          }
+        },
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-3": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        },
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-4": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "title": "Description",
+            "text_font_class": "fs-body-100",
+            "column_placement": "right",
+            "display_as_collapsible_row": false,
+            "expand_by_default": false
+          }
+        },
+        "38328568-07fa-4f44-a0bf-5fac06ffd658": {
+          "type": "product_callouts_mini",
+          "settings": {
+            "icon_1": "package-closed",
+            "text_1": "Fast",
+            "icon_2": "paper-airplane",
+            "text_2": "Trustworthy",
+            "icon_3": "chat",
+            "text_3": "Organic",
+            "icon_4": "none",
+            "text_4": "",
+            "icon_5": "none",
+            "text_5": "",
+            "icon_6": "none",
+            "text_6": ""
+          }
+        },
+        "b04f6df7-8f5d-41bf-a68f-29f7a8a468cc": {
+          "type": "text",
+          "settings": {
+            "text_font_class": "fs-body-100",
+            "text": "<p>Add some text to tell customers more about your product.<\/p>",
+            "column_placement": "right"
+          }
+        },
+        "590534e1-f956-4eaa-83ee-6c770e5e410d": {
+          "type": "featured_products",
+          "settings": {
+            "heading": "Pairs well with",
+            "column_placement": "right",
+            "max_products": 3,
+            "product_source": "custom-product-list",
+            "product_list": [
+
+            ],
+            "enable_swiper_mobile": true,
+            "display_as_collapsible_row": false,
+            "expand_by_default": true
+          }
+        }
+      },
+      "block_order": [
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-0",
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-1",
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-2",
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-3",
+        "template--19752580677952__12afe198-e642-41a9-8b88-3aa9e0e80080-1688398378fe32cd82-4",
+        "38328568-07fa-4f44-a0bf-5fac06ffd658",
+        "b04f6df7-8f5d-41bf-a68f-29f7a8a468cc",
+        "590534e1-f956-4eaa-83ee-6c770e5e410d"
+      ],
+      "settings": {
+        "featured_product": "smiling-star-teeth-whitening-system",
+        "gallery_size": "small",
+        "enable_video_looping": false,
+        "enable_product_lightbox": false,
+        "image_aspect_ratio": "square",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
+    "7d27b682-a73b-4a7d-bd9d-e526d4cc1ab6": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--19752580677952__7d27b682-a73b-4a7d-bd9d-e526d4cc1ab6-16883995830b04ad9e-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "template--19752580677952__7d27b682-a73b-4a7d-bd9d-e526d4cc1ab6-16883995830b04ad9e-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "template--19752580677952__7d27b682-a73b-4a7d-bd9d-e526d4cc1ab6-16883995830b04ad9e-2": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Read more",
+            "button_style": "btn--primary"
+          }
+        },
+        "96ebb7b6-84b0-47fb-a10d-3608facead9a": {
+          "type": "accent",
+          "disabled": true,
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "090a83ed-8359-43a7-b760-e4608210648e": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Use these sections to promote a particular feature with editorial photography<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        }
+      },
+      "block_order": [
+        "template--19752580677952__7d27b682-a73b-4a7d-bd9d-e526d4cc1ab6-16883995830b04ad9e-0",
+        "template--19752580677952__7d27b682-a73b-4a7d-bd9d-e526d4cc1ab6-16883995830b04ad9e-1",
+        "template--19752580677952__7d27b682-a73b-4a7d-bd9d-e526d4cc1ab6-16883995830b04ad9e-2",
+        "96ebb7b6-84b0-47fb-a10d-3608facead9a",
+        "090a83ed-8359-43a7-b760-e4608210648e"
+      ],
+      "settings": {
+        "image_position": "right",
+        "text_alignment": "center",
+        "image": "shopify:\/\/shop_images\/DeviceandPen.jpg",
+        "aspect_ratio": "square",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "image_presentation",
+        "background_color": "",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "1655747757d7226f15": {
+      "type": "grid",
+      "disabled": true,
+      "blocks": {
+        "e866e078-81cd-4f2b-8678-817de7dc830a": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "c832af30-0b0e-4968-9284-ab8633c9a7c3": {
+          "type": "item",
+          "settings": {
+            "width": "50",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "c51c0355-4ad0-4933-b13d-f827c724bcf5": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "c49fee52-014f-4275-968c-dc288d31fd2b": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "765a5e2e-93df-44f3-aa92-3c26e95174c2": {
+          "type": "item",
+          "settings": {
+            "width": "33",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        },
+        "48a4e426-4325-412e-a437-c11aa5b4edf2": {
+          "type": "item",
+          "settings": {
+            "width": "100",
+            "height": 500,
+            "mobile_height": 500,
+            "media_fit": "cover",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "text_position": "center_center",
+            "accent": "",
+            "title": "Grid item",
+            "heading_font_class": "fs-heading-2-base",
+            "subheading": "<p>Perfect for lookbooks and editorial photography<\/p>",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary",
+            "background_color": "",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "e866e078-81cd-4f2b-8678-817de7dc830a",
+        "c832af30-0b0e-4968-9284-ab8633c9a7c3",
+        "c51c0355-4ad0-4933-b13d-f827c724bcf5",
+        "c49fee52-014f-4275-968c-dc288d31fd2b",
+        "765a5e2e-93df-44f3-aa92-3c26e95174c2",
+        "48a4e426-4325-412e-a437-c11aa5b4edf2"
+      ],
+      "settings": {
+        "heading": "",
+        "subheading": "",
+        "content_alignment": "left",
+        "enable_animation": true,
+        "full_width": false,
+        "spacing": 24,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "ee3defe8-a30e-45e4-8133-34b2cb7d5938": {
+      "type": "image-compare",
+      "blocks": {
+        "template--19752580677952__ee3defe8-a30e-45e4-8133-34b2cb7d5938-16887058834d546c20-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Before_1.png",
+            "focal_point": "bottom",
+            "filter_effect": "none",
+            "filter_amount": 0,
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0,
+            "show_label": true,
+            "text": "Before",
+            "text_position": "flex-start_flex-start",
+            "text_color": "#000",
+            "text_container_color": "#FFF"
+          }
+        },
+        "template--19752580677952__ee3defe8-a30e-45e4-8133-34b2cb7d5938-16887058834d546c20-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/After_1.png",
+            "focal_point": "image_presentation",
+            "filter_effect": "none",
+            "filter_amount": 0,
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0,
+            "show_label": true,
+            "text": "After",
+            "text_position": "flex-end_flex-end",
+            "text_color": "#000",
+            "text_container_color": "#FFF"
+          }
+        }
+      },
+      "block_order": [
+        "template--19752580677952__ee3defe8-a30e-45e4-8133-34b2cb7d5938-16887058834d546c20-0",
+        "template--19752580677952__ee3defe8-a30e-45e4-8133-34b2cb7d5938-16887058834d546c20-1"
+      ],
+      "settings": {
+        "image_position": "below",
+        "aspect_ratio": "landscape",
+        "reveal_direction": "horizontal",
+        "image_max_width": 500,
+        "slider_color": "#000",
+        "slider_arrows_color": "#FFF",
+        "text_alignment": "center",
+        "heading": "Image compare",
+        "heading_font_class": "fs-heading-3-base",
+        "subheading": "<p>Use this section to highlight differences between two like images.<\/p>",
+        "link": "",
+        "link_text": "",
+        "button_style": "btn--secondary",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "74e62495-ddad-42a1-be2f-803d94445896": {
+      "type": "gallery-carousel",
+      "disabled": true,
+      "blocks": {
+        "template--19752580677952__74e62495-ddad-42a1-be2f-803d94445896-168870495672c576a7-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BeforeandAfter.jpg",
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>"
+          }
+        },
+        "template--19752580677952__74e62495-ddad-42a1-be2f-803d94445896-168870495672c576a7-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/AdobeStock_174523172_Preview.jpg",
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>"
+          }
+        },
+        "template--19752580677952__74e62495-ddad-42a1-be2f-803d94445896-168870495672c576a7-2": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>"
+          }
+        },
+        "template--19752580677952__74e62495-ddad-42a1-be2f-803d94445896-168870495672c576a7-3": {
+          "type": "image",
+          "settings": {
+            "focal_point": "image_presentation",
+            "title": "Image with caption",
+            "text": "<p>Use these sections to promote a particular feature with editorial photography.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19752580677952__74e62495-ddad-42a1-be2f-803d94445896-168870495672c576a7-0",
+        "template--19752580677952__74e62495-ddad-42a1-be2f-803d94445896-168870495672c576a7-1",
+        "template--19752580677952__74e62495-ddad-42a1-be2f-803d94445896-168870495672c576a7-2",
+        "template--19752580677952__74e62495-ddad-42a1-be2f-803d94445896-168870495672c576a7-3"
+      ],
+      "settings": {
+        "heading": "Gallery carousel",
+        "subheading": "",
+        "link": "",
+        "link_text": "",
+        "columns": "2",
+        "mobile_columns": "1",
+        "loop_carousel": true,
+        "aspect_ratio": "square",
+        "image_caption_style": "overlay",
+        "image_caption_size": "fs-body-100",
+        "overlay_text_background_style": "gradient",
+        "overlay_text_color": "#fff",
+        "overlay_text_background": "#000000",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "165489278903cc3881": {
+      "type": "image-with-text-split",
+      "blocks": {
+        "cec1e4e1-4b28-4709-8d1a-c986ad40425b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2023-07-03_at_10.02.45_AM.png",
+            "image_size": 160,
+            "image_size_mobile": 110
+          }
+        },
+        "da0d8502-d1a9-42c4-946f-f3143ddb712c": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Image with text split",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "16548927896be1844d-2": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "\"Everybody should have the chance to have a celebrity smile!\"",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "92c33801-1f1e-4071-b055-426eb94bd672": {
+          "type": "text",
+          "settings": {
+            "text": "<p>—Dr. Laurence Rifkin<\/p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "82fd259e-87e0-4232-9b45-72472ceab4dc": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "About Our Dentists",
+            "button_style": "btn--callout"
+          }
+        },
+        "7792bb9a-dddb-46ca-9045-e26f6f6948b5": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "link_text": "Shop Whitening Kit",
+            "button_style": "btn--callout"
+          }
+        }
+      },
+      "block_order": [
+        "cec1e4e1-4b28-4709-8d1a-c986ad40425b",
+        "da0d8502-d1a9-42c4-946f-f3143ddb712c",
+        "16548927896be1844d-2",
+        "92c33801-1f1e-4071-b055-426eb94bd672",
+        "82fd259e-87e0-4232-9b45-72472ceab4dc",
+        "7792bb9a-dddb-46ca-9045-e26f6f6948b5"
+      ],
+      "settings": {
+        "image_position": "right",
+        "image_mobile_position": "above-content",
+        "image_padding": "none",
+        "image": "shopify:\/\/shop_images\/Woman_Smiling.jpg",
+        "aspect_ratio": "square",
+        "focal_point": "image_presentation",
+        "content_alignment": "center",
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "button_background_color": "#d1d8c0",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
+    "1fa2dafc-5b32-47fd-b34b-049b08bccc50": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19752580677952__1fa2dafc-5b32-47fd-b34b-049b08bccc50-1688707124c8d9d764-0": {
+          "type": "slide",
+          "settings": {
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Slideshow",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p>Use this section to make a bold statement<\/p>",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        },
+        "template--19752580677952__1fa2dafc-5b32-47fd-b34b-049b08bccc50-1688707124c8d9d764-1": {
+          "type": "slide",
+          "settings": {
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "Slideshow",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p>Use this section to make a bold statement<\/p>",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#FFFFFF",
+            "button_background_color": "#FFFFFF",
+            "button_text_color": "#000000",
+            "color_overlay": "#000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 40
+          }
+        }
+      },
+      "block_order": [
+        "template--19752580677952__1fa2dafc-5b32-47fd-b34b-049b08bccc50-1688707124c8d9d764-0",
+        "template--19752580677952__1fa2dafc-5b32-47fd-b34b-049b08bccc50-1688707124c8d9d764-1"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 50,
+        "mobile_height": 50,
+        "enable_autoplay": true,
+        "duration_autoplay": 6,
+        "navigation_alignment": "center",
+        "navigation_color_foreground": "#fff",
+        "navigation_color_background": "",
+        "navigation_background_opacity": 100,
+        "enable_animation": true,
+        "section_padding": "none"
+      }
+    },
+    "16558561940a4fe50f": {
+      "type": "testimonials",
+      "disabled": true,
+      "blocks": {
+        "1655856194e7b43695-0": {
+          "type": "testimonial",
+          "settings": {
+            "product": "smiling-star-teeth-whitening-system",
+            "image_position": "right",
+            "image": "shopify:\/\/shop_images\/Artboard-1.jpg",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "\"Add customer reviews and testimonials to showcase your store’s happy customers.\"",
+            "author": "– Keanu Reeves"
+          }
+        },
+        "1655856194e7b43695-1": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 4.5,
+            "quote": "\"Add customer reviews and testimonials to showcase your store’s happy customers.\"",
+            "author": "– Author's name"
+          }
+        },
+        "1655856194e7b43695-2": {
+          "type": "testimonial",
+          "settings": {
+            "product": "",
+            "image_position": "right",
+            "aspect_ratio": "square",
+            "focal_point": "image_presentation",
+            "show_rating": true,
+            "rating": 5,
+            "quote": "\"Add customer reviews and testimonials to showcase your store’s happy customers.\"",
+            "author": "– Author's name"
+          }
+        }
+      },
+      "block_order": [
+        "1655856194e7b43695-0",
+        "1655856194e7b43695-1",
+        "1655856194e7b43695-2"
+      ],
+      "settings": {
+        "image_size": "small",
+        "quote_font": "heading",
+        "background_color": "#000000",
+        "text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "16558561315f6147d3": {
+      "type": "sales-banner",
+      "settings": {
+        "min_height": 300,
+        "min_height_mobile": 500,
+        "sale_type": "up to",
+        "sale_amount": "20",
+        "sale_unit": "percent_off",
+        "terms_and_conditions": "* Limited time offer",
+        "terms_vertical_offset": 0,
+        "sale_font_size": 150,
+        "sale_font_size_mobile": 132,
+        "currency_symbol_position": "before",
+        "heading": "subscribe and save",
+        "heading_font_class": "fs-heading-3-base",
+        "text": "<p>Get your whitening gel refills for 20% off, if you subscribe today!<\/p>",
+        "link": "shopify:\/\/collections",
+        "link_text": "Button",
+        "button_style": "btn--primary",
+        "link_2": "shopify:\/\/collections",
+        "link_text_2": "Button",
+        "button_style_2": "btn--secondary",
+        "image": "shopify:\/\/shop_images\/AdobeStock_174523172_Preview_ea50c63f-1ae6-4bc7-9ab8-a88149cd6379.jpg",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#ffffff",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "background_color": "#bea69a",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 32,
+        "layout": "two-columns",
+        "enable_animation": true,
+        "show_frame": true,
+        "full_width": false,
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
+    "1654916105fd939f8f": {
+      "type": "video-hero",
+      "disabled": true,
+      "blocks": {
+        "1654916105bea353be-0": {
+          "type": "accent",
+          "settings": {
+            "accent": "Accent"
+          }
+        },
+        "1654916105bea353be-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Video hero",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "535519ef-68f5-42dd-8ad6-15ab68afaa95": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Use this section to promote a particular feature with editorial video.",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "39a1cced-a841-48eb-bf01-2041e2134155": {
+          "type": "play-button",
+          "settings": {
+            "video_url": "",
+            "aspect_ratio": "landscape",
+            "text": "Watch now",
+            "icon_style": "light"
+          }
+        }
+      },
+      "block_order": [
+        "1654916105bea353be-0",
+        "1654916105bea353be-1",
+        "535519ef-68f5-42dd-8ad6-15ab68afaa95",
+        "39a1cced-a841-48eb-bf01-2041e2134155"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 65,
+        "mobile_height": 50,
+        "video_url": "",
+        "media_link": "",
+        "focal_point": "image_presentation",
+        "text_position": "center_flex-end",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "linear-gradient(180deg, rgba(0, 0, 0, 0.24) 38%, rgba(0, 0, 0, 1) 100%)",
+        "overlay_opacity": 67,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "34561e31-57db-4d52-ac46-6fa7f9f5239f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19752580677952__34561e31-57db-4d52-ac46-6fa7f9f5239f-1688404881b13e6828-0": {
+          "type": "heading",
+          "settings": {
+            "title": "See how we compare",
+            "heading_font_class": "fs-heading-1-base"
+          }
+        },
+        "template--19752580677952__34561e31-57db-4d52-ac46-6fa7f9f5239f-1688404881b13e6828-1": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Use these sections to promote a particular feature with editorial photography",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "template--19752580677952__34561e31-57db-4d52-ac46-6fa7f9f5239f-1688404881b13e6828-2": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/products\/smiling-star-teeth-whitening-system",
+            "link_text": "SHOP NOW",
+            "button_style": "btn--primary"
+          }
+        },
+        "62122e19-adeb-475a-9823-7ee91b505777": {
+          "type": "border",
+          "settings": {
+          }
+        },
+        "851bbd5a-2067-46f0-b4ea-d0f1bf12bc95": {
+          "type": "accent",
+          "settings": {
+            "accent": "Accent"
+          }
+        }
+      },
+      "block_order": [
+        "template--19752580677952__34561e31-57db-4d52-ac46-6fa7f9f5239f-1688404881b13e6828-0",
+        "template--19752580677952__34561e31-57db-4d52-ac46-6fa7f9f5239f-1688404881b13e6828-1",
+        "template--19752580677952__34561e31-57db-4d52-ac46-6fa7f9f5239f-1688404881b13e6828-2",
+        "62122e19-adeb-475a-9823-7ee91b505777",
+        "851bbd5a-2067-46f0-b4ea-d0f1bf12bc95"
+      ],
+      "settings": {
+        "image_position": "right",
+        "text_alignment": "center",
+        "image": "shopify:\/\/shop_images\/Comparison_Chart2.png",
+        "aspect_ratio": "natural",
+        "focal_point": "center",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small": "shopify:\/\/shop_images\/ComparisonChart.jpg",
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "image_presentation",
+        "background_color": "#f5f5f5",
+        "text_color": "#000000",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "16548801325228c324": {
+      "type": "blog-posts",
+      "blocks": {
+        "b47189c7-d8ce-4a14-a6ea-c97f86068988": {
+          "type": "article",
+          "settings": {
+            "article": ""
+          }
+        },
+        "5ff21b5a-dd22-49cc-a5f8-614920da15fa": {
+          "type": "article",
+          "settings": {
+            "article": ""
+          }
+        },
+        "4f865f16-96da-4892-b922-4f78bdb74cc7": {
+          "type": "article",
+          "disabled": true,
+          "settings": {
+            "article": ""
+          }
+        }
+      },
+      "block_order": [
+        "b47189c7-d8ce-4a14-a6ea-c97f86068988",
+        "5ff21b5a-dd22-49cc-a5f8-614920da15fa",
+        "4f865f16-96da-4892-b922-4f78bdb74cc7"
+      ],
+      "settings": {
+        "heading": "Blog posts",
+        "subheading": "",
+        "button_link": "",
+        "link_text": "View all posts",
+        "display_type": "all",
+        "blog": "news",
+        "max_articles": 2,
+        "show_tags": true,
+        "show_author": false,
+        "show_date": true,
+        "show_excerpt": true,
+        "show_featured_image": true,
+        "aspect_ratio": "landscape",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "d71df2af-ba99-428a-9772-57ebe99ef94d": {
+      "type": "newsletter-compact",
+      "blocks": {
+        "template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-0": {
+          "type": "text_content",
+          "settings": {
+            "width": "600",
+            "title": "Subscribe to our newsletter",
+            "heading_font_class": "fs-heading-4-base",
+            "subheading": "",
+            "subheading_font_class": "fs-heading-6-base",
+            "text": "<p>Include a short sentence describing what someone can expect from your newsletter.<\/p>",
+            "text_font_class": "fs-body-75"
+          }
+        },
+        "template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-1": {
+          "type": "newsletter_signup",
+          "settings": {
+            "signup_link_text": "Sign up",
+            "footer_text": "<p>By completing this form, you are signing up to receive our emails and can unsubscribe at any time.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-0",
+        "template--15305459073231__d71df2af-ba99-428a-9772-57ebe99ef94d-1668035253c173f759-1"
+      ],
+      "settings": {
+        "spacing_mode": "between",
+        "alignment": "left",
+        "focal_point": "image_presentation",
+        "background_color": "#f5f5f5",
+        "text_color": "#000000",
+        "input_color": "#000000",
+        "input_background": "#ffffff",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "ffaa04d4-5e8e-4b50-9998-712d5174126f": {
+      "type": "countdown-banner",
+      "disabled": true,
+      "settings": {
+        "min_height": 300,
+        "min_height_mobile": 500,
+        "year": 2023,
+        "month": "january",
+        "day": "1",
+        "hour": "0",
+        "minute": "0",
+        "time_zone_selection": "shop",
+        "hide_timer_on_complete": false,
+        "timer_complete_message": "",
+        "heading": "Countdown banner",
+        "heading_font_class": "fs-heading-1-base",
+        "subheading": "<p>Use this timer to create urgency or highlight an upcoming event.<\/p>",
+        "text": "",
+        "link": "shopify:\/\/collections",
+        "link_text": "Button",
+        "button_style": "btn--primary",
+        "link_2": "shopify:\/\/collections",
+        "link_text_2": "Button",
+        "button_style_2": "btn--primary",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "background_color": "#c51c26",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "show_frame": true,
+        "full_width": false,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    }
+  },
+  "order": [
+    "1655855477ee9538e0",
+    "16558445044f80743b",
+    "4258a3cf-63f0-4252-a258-d088d4867ca8",
+    "16549177944ec2347e",
+    "12afe198-e642-41a9-8b88-3aa9e0e80080",
+    "7d27b682-a73b-4a7d-bd9d-e526d4cc1ab6",
+    "1655747757d7226f15",
+    "ee3defe8-a30e-45e4-8133-34b2cb7d5938",
+    "74e62495-ddad-42a1-be2f-803d94445896",
+    "165489278903cc3881",
+    "1fa2dafc-5b32-47fd-b34b-049b08bccc50",
+    "16558561940a4fe50f",
+    "16558561315f6147d3",
+    "1654916105fd939f8f",
+    "34561e31-57db-4d52-ac46-6fa7f9f5239f",
+    "16548801325228c324",
+    "d71df2af-ba99-428a-9772-57ebe99ef94d",
+    "ffaa04d4-5e8e-4b50-9998-712d5174126f"
+  ]
+}

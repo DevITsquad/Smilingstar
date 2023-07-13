@@ -1,0 +1,73 @@
+{%- if template contains 'customers' -%}
+  <script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer></script>
+{%- endif -%}
+
+<script>
+  flu = window.flu || {};
+  flu.chunks = {
+    photoswipe: "{{ 'photoswipe-chunk.js' | asset_url }}",
+    swiper: "{{ 'swiper-chunk.js' | asset_url }}",
+    nouislider: "{{ 'nouislider-chunk.js' | asset_url }}",
+    polyfillInert: "{{ 'polyfill-inert-chunk.js' | asset_url }}",
+    polyfillResizeObserver: "{{ 'polyfill-resize-observer-chunk.js' | asset_url }}",
+  };
+</script>
+
+{% # Set the following line to true to use the unminified javascript file theme.js %}
+{% assign useUnminThemeJS = false %}
+
+{% if useUnminThemeJS %}
+  <script type="module" src="{{ 'theme.js' | asset_url }}"></script>
+{% else %}
+  <script type="module" src="{{ 'theme.min.js' | asset_url }}"></script>
+{% endif %}
+
+{% # Set the following line to true to import custom-events.js %}
+{% assign useCustomEvents = false %}
+
+{% if useCustomEvents %}
+  <script src="{{ 'custom-events.js' | asset_url }}" defer></script>
+{% endif %}
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script defer>
+  var defineVH = function () {
+    document.documentElement.style.setProperty('--vh', window.innerHeight * 0.01 + 'px');
+  };
+  window.addEventListener('resize', defineVH);
+  window.addEventListener('orientationchange', defineVH);
+  defineVH();
+</script>
+
+{{ 'theme.css' | asset_url | stylesheet_tag }}
+<style>
+
+
+
+
+
+
+
+
+  {% comment %} @font-face{
+    font-family: "Brandon Grotesque", Arial ,sans-serif;
+    src: url({{ "brandon-grotesque-regular-italic-58a8a456c4724.otf" | asset_url }}) format("opentype"),
+    url({{ "brandon-grotesque-regular-italic-58a8a456c4724.otf" | asset_url }}) format("opentype"),
+    url({{ "brandon-grotesque-black-58a8a3e824392.otf" | asset_url }}) format("opentype"),
+    url({{ "brandon-grotesque-light-58a8a4b38001d.otf" | asset_url }}) format("opentype"),
+    url({{ "brandon-grotesque-light-italic-58a8a4ccb88be.otf" | asset_url }}) format("opentype"),
+    url({{ "brandon-grotesque-medium-italic-58a8a3c40866a.otf" | asset_url }}) format("opentype"),
+    url({{ "brandon-grotesque-thin-italic-58a8a3a8861fe.otf" | asset_url }}) format("opentype");
+    
+} {% endcomment %}
+  
+
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+*, body {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+</style>
+{{ 'custom.css' | asset_url | stylesheet_tag }}

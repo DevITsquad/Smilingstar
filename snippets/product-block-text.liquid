@@ -1,0 +1,115 @@
+<style>
+  .rte.rte--product.ff-body h6,
+  .rte.rte--product.ff-body h1,
+  .rte.rte--product.ff-body h2,
+  .rte.rte--product.ff-body h3,
+  .rte.rte--product.ff-body h4,
+  .rte.rte--product.ff-body h5,
+  .rte.rte--product.ff-body p {
+    position: relative !important;
+    top: -25px !important;
+    margin-top: 0;
+    text-align: center;
+  }
+
+  .rte.rte--product.ff-body .whatsInside__section {
+    border-radius: 15px;
+    border: solid 2px #1ee3cc;
+    padding: 45px 25px;
+    background: #f5f2f2;
+  }
+  #additional-content {
+    max-height: 78px;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+    margin-bottom:5px;
+  }
+  #toggle-btn {
+    color: #2c2e2e;
+    text-decoration: underline;
+  }
+
+  .item--icons__grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+  
+  }
+  .item--icons__grid div{
+    display: flex;
+   align-items: center;
+   gap: 5px;
+   margin: 0 !important;
+   height: auto !important;
+  }
+  .item--icons__grid img{
+  width: 50px;
+  height: 50px;
+  margin: 0 !important;
+  }
+  .item--icons__grid span{
+    font-size:15px;
+    }
+  .whatIsInside__header{
+    text-align:left !important;
+    margin:0 !important;
+  }
+  @media screen and (max-width:767px) {
+    .item--icons__grid img{
+  width: 40px;
+  height: 40px;
+  }
+  .item--icons__grid span{
+    font-size:14px;
+    }
+  
+  }
+
+  @media screen and (max-width:530px) {
+    .item--icons__grid span{
+      font-size:12px;
+      }
+      .item--icons__grid img{
+        width: 35px;
+        height: 35px;
+        }
+  }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const toggleBtn = document.getElementById('toggle-btn');
+    const additionalContent = document.getElementById('additional-content');
+    let isExpanded = false;
+    if (toggleBtn){
+      toggleBtn.addEventListener('click', () => {
+        if (!isExpanded) {
+          // Show additional content
+          additionalContent.style.maxHeight = additionalContent.scrollHeight + 'px';
+          toggleBtn.textContent = 'Read less';
+        } else {
+          // Hide additional content
+          additionalContent.style.maxHeight = '78px';
+          toggleBtn.textContent = 'Read more';
+        }
+        isExpanded = !isExpanded;
+      });
+    }
+ 
+  });
+</script>
+{%- if content != blank -%}
+  <div class="product__description product__block product__block--medium" {{ block.shopify_attributes }}>
+    <div class="rte rte--product ff-body {{ block_settings.text_font_class }}"> 
+      {% case counter %}
+        {% when 0 %}
+          <div id="additional-content">{{ content }}</div>
+          <button id="toggle-btn">Read more</button>
+        {% when 2 %}
+          <div class="whatsInside__section">{{ content }}</div>
+        {% else %}
+          {{ content }}
+      {% endcase %}
+    </div>
+  </div>
+{%- endif -%}
+
